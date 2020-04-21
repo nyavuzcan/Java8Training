@@ -1,0 +1,10 @@
+
+k	java:S114O"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş¶´ˆøÿÿÿÿ
+k	java:S114S"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯ùû¥şÿÿÿÿ
+f	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¾´è
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘¢ßúÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "x" parameter(ù¥öıøÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(¯ÆÔà
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(™Ÿ¬
+V	java:S125"<This block of commented-out lines of code should be removed.(”·Úşÿÿÿÿ
