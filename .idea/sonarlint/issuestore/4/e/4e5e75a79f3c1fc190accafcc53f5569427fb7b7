@@ -1,10 +1,19 @@
 
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ƒøâ
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œßĞ 8é¼©š.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(ØÏ¿ê8‰Í¬š.
+U
+java:S1128"8Remove this unused import 'sun.text.normalizer.Utility'.(ØÏ¿ê8‰Í¬š.
+b	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ƒøâ
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(œ‚ğã8£±­š.
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áĞÚ›üÿÿÿÿ
 T
-java:S4973"9Use the "equals" method if value comparison was intended.(ñ•ôşÿÿÿÿ
-F
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
-F
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ûåóˆ
+java:S4973"9Use the "equals" method if value comparison was intended.(ñ•ôşÿÿÿÿ
+Y
+java:S1128"7Remove this unused import 'javax.swing.text.Utilities'.(×ªß’øÿÿÿÿ8‰Í¬š.
