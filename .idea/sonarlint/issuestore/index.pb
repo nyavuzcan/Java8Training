@@ -55,3 +55,17 @@ A
 Java8Training.iml,0\9\09aa259b178583840b5cf12e524a2c2cbd802d62
 e
 5src/main/java/HackerRank/SimpleArraySum/Solution.java,4\c\4c3d25e78b57a4d09e4b72567bf42709a457d989
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+i
+9src/main/java/HackerRank/RateOfPositiveNegative/test.java,8\1\81448ab40aef6a2de983df0a20b7bc4f3db614dc
+[
++src/main/java/HackerRank/DrawStar/test.java,3\7\3705bcd904d8cba3bfa556ad0b807e4ec57471ec
+a
+1src/main/java/HackerRank/ModeFindinList/test.java,3\f\3fafab031605e866a02ec83aced7d93083ae6a76
+_
+/src/main/java/HackerRank/MaxAndMinSum/test.java,3\3\33c2053ba667bb5d3a784e5dd3d29fcc24119f05
+f
+6src/main/java/HackerRank/TimeConversionSplit/test.java,c\f\cf3c57b16d4ddc9a9ef686c5f690fb3a6748902f
+u
+Esrc/main/java/HackerRank/GradingStudentRoundConditional/testMain.java,7\2\72ae132cfeff4584d7628f6a192705703d78a41a

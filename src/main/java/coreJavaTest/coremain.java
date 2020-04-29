@@ -3,9 +3,7 @@ package coreJavaTest;
 import sun.text.normalizer.Utility;
 
 import javax.swing.text.Utilities;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Objects;
+import java.util.*;
 
 public class coremain {
 
@@ -13,10 +11,29 @@ public class coremain {
   // Driver code
   public static void main(String[] args)
   {
-    String test=null;
+    List<String> stringList= new ArrayList<>();
+    String a1= "nev";
+    String b1= "ezg";
+
+    stringList.add(a1);
+    stringList.add(b1);
+
+
+
+    test test  = new test();
+    List<Integer> li= Arrays.asList();
+
+    List<Integer> list = new LinkedList<Integer>(Arrays.asList(1,2,3,4));
+    list.stream().forEach(System.out::println);
+    test.siralama(list);
+    System.out.println("asdas");
+    list.stream().forEach(System.out::println);
+
+
+    String testString=null;
     String XTEST ="nevzat";
 
-    if (Objects.nonNull(test)&&test.equals(XTEST)){
+    if (Objects.nonNull(testString)&&testString.equals(XTEST)){
       System.out.println("ESİT");
     }
 

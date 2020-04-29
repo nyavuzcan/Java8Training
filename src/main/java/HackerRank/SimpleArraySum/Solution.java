@@ -3,6 +3,7 @@ package HackerRank.SimpleArraySum;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
@@ -21,7 +22,6 @@ public class Solution {
   static int simpleArraySum(int[] ar) {
     List<Integer> list = Arrays.stream(ar).boxed().collect(Collectors.toList());
     return list.stream().mapToInt(Integer::intValue).sum();
-
 
   }
 
