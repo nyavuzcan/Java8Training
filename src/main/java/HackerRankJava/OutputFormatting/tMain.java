@@ -32,7 +32,7 @@ public class tMain {
 
 
    /* Scanner sc=new Scanner(System.in);
-    List<String> myStringList= new ArrayList<>();
+    List<String> myStringList=   new ArrayList<>();
     List<String> myValueString= new ArrayList<>();
     List<Integer> intList= new ArrayList<>();
     for(int i=0;i<3;i++)
