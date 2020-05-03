@@ -131,3 +131,7 @@ m
 =src/main/java/HackerRank/BolunebilirCiftlerList/testMain.java,8\c\8cfae208a9c28ddb1d5826db87007aa90cfe22d4
 c
 3src/main/java/HackerRankJava/ForLoops/TestMain.java,a\0\a0c30cccb37c90bf3cfff6dc8785db80019cfdbd
+a
+1src/main/java/EbookJava8/DefaultMethods/info.java,2\e\2e0af3d6f4ee4b54f561e33e363410fbc7a26509
+r
+Bsrc/main/java/EbookJava8/DefaultMethods/VarsayilanMetodlarJDK.java,7\a\7aad80cb2050c9dd1e135adc277add35527c61df
