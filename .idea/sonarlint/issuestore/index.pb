@@ -135,3 +135,7 @@ a
 1src/main/java/EbookJava8/DefaultMethods/info.java,2\e\2e0af3d6f4ee4b54f561e33e363410fbc7a26509
 r
 Bsrc/main/java/EbookJava8/DefaultMethods/VarsayilanMetodlarJDK.java,7\a\7aad80cb2050c9dd1e135adc277add35527c61df
+l
+<src/main/java/HackerRank/FrequencyListElement/WithJava8.java,6\5\65ce120b80a8f47b23a67be72b1b3ffa3ff5e328
+j
+:src/main/java/HackerRankJava/DataTypeIntLong/Solution.java,7\b\7b02c7e621d8770a0051ab27a899fa9c8ac5b0bc
