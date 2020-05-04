@@ -11,7 +11,10 @@ public class WithJava8 {
     Map<Integer, Integer> frequencies = arr.stream()
         .collect(toMap(identity(), v -> 1, Integer::sum));
 
-    List<Integer> maxls= Collections.singletonList(frequencies.entrySet().stream().max(Map.Entry.comparingByValue()).get().getKey());
+    List<Integer> maxls= Collections.singletonList(frequencies.entrySet().stream()
+        .max(Map.Entry.comparingByValue())
+        .get()
+        .getKey());
   return maxls.stream().findFirst().get();
 
   }
