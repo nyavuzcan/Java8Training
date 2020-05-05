@@ -167,3 +167,7 @@ f
 .src/main/java/EbookJava8/STREAMAPI/Sorted.java,b\6\b67670e5439a9f02dfba9a1b0446b679b1960f6e
 a
 1src/main/java/EbookJava8/STREAMAPI/LazyEager.java,8\9\8991ecffba25c82e2434e9be3eed33c6aae5d1ca
+f
+6src/main/java/HackerRank/DayOfProgrammer/Solution.java,8\9\8970461a511993e3425c1ba5b7c85bd9c2f49f92
+h
+8src/main/java/HackerRankJava/JavaEndOfFile/Solution.java,3\6\36571501fec270067015dd9004ebf140e5879700

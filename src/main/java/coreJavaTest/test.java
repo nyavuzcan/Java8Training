@@ -9,6 +9,8 @@ public class test {
  public test(){
    this.arr[0][0]=1;
    hashMap =new HashMap<>();
+
+
  }
 
  public void siralama(List<Integer> a){
