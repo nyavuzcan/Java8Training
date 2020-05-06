@@ -11,6 +11,8 @@ public class coremain {
   // Driver code
   public static void main(String[] args)
   {
+
+    System.out.println(5/2);
     List<String> stringList= new ArrayList<>();
     String a1= "nev";
     String b1= "ezg";
