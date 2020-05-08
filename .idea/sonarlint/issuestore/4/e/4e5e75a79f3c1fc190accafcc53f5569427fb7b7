@@ -1,20 +1,20 @@
 
+T
+java:S4973."9Use the "equals" method if value comparison was intended.(ñ•ôşÿÿÿÿ
+S
+java:S1854"6Remove this useless assignment to local variable "li".(­Ñşê8Šï³²›.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ÅÎàüÿÿÿÿ8Šï³²›.
 U
 java:S1128"8Remove this unused import 'sun.text.normalizer.Utility'.(ØÏ¿ê8‰Í¬š.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áĞÚ›üÿÿÿÿ
 b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ƒøâ
-D
-java:S1481"'Remove this unused "li" local variable.(­Ñşê8Šï³²›.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áĞÚ›üÿÿÿÿ
 f
-java:S2583$"DChange this condition so that it does not always evaluate to "false"(­ôÛşÿÿÿÿ8Šï³²›.
+java:S2583&"DChange this condition so that it does not always evaluate to "false"(­ôÛşÿÿÿÿ8Šï³²›.
 R
 java:S1191"5Use classes from the Java API instead of Sun classes.(ØÏ¿ê8‰Í¬š.
-m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œßĞ 8é¼©š.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ÅÎàüÿÿÿÿ8Šï³²›.
-S
-java:S1854"6Remove this useless assignment to local variable "li".(­Ñşê8Šï³²›.
+D
+java:S1481"'Remove this unused "li" local variable.(­Ñşê8Šï³²›.
+m	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œßĞ 8é¼©š.
 Y
 java:S1128"7Remove this unused import 'javax.swing.text.Utilities'.(×ªß’øÿÿÿÿ8‰Í¬š.
-T
-java:S4973,"9Use the "equals" method if value comparison was intended.(ñ•ôşÿÿÿÿ

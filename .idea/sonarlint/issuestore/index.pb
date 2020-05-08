@@ -203,3 +203,11 @@ Vsrc/main/java/EbookJava8/CompletableFutureAsenkronProgramlam/CompletableFutreTE
 Xsrc/main/java/EbookJava8/CompletableFutureAsenkronProgramlam/CompletableFutureAllOf.java,d\6\d6478dccd03bb86e47c164ef3b92288ce9fc5882
 ˆ
 Xsrc/main/java/EbookJava8/CompletableFutureAsenkronProgramlam/CompletableFutureanyOf.java,8\1\811aad2e34bc1aa7f575f600a2e3cd12bae951fd
+Ž
+^src/main/java/EbookJava8/CompletableFutureAsenkronProgramlam/CompletableFuturesupplyAsync.java,7\7\778f527e1f8c9fe35e03b44ddfd45cb4f299dda7
+~
+Nsrc/main/java/EbookJava8/CompletableFutureAsenkronProgramlam/runAfterBoth.java,7\2\722034570fa7c774dffabdc23c33907ef8f0ef65
+h
+8src/main/java/HackerRank/SockMerchantEslestirme/sol.java,2\2\228448a3bd47991b1f6d191b3cea18e4588f79eb
+‰
+Ysrc/main/java/EbookJava8/CompletableFutureAsenkronProgramlam/CompletableFuturehandle.java,f\0\f009e0bd173bc92d5dc861bed72703df68019095
