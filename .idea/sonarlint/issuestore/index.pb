@@ -211,3 +211,7 @@ h
 8src/main/java/HackerRank/SockMerchantEslestirme/sol.java,2\2\228448a3bd47991b1f6d191b3cea18e4588f79eb
 ‰
 Ysrc/main/java/EbookJava8/CompletableFutureAsenkronProgramlam/CompletableFuturehandle.java,f\0\f009e0bd173bc92d5dc861bed72703df68019095
+g
+7src/main/java/HackerRank/CountingValleys/Solutions.java,b\0\b0854f7fbbfb778a46ff12578106ac31c1827b17
+o
+?src/main/java/HackerRankJava/MoneyNumberFormatter/Solution.java,5\f\5f73f9c0e82cba1286640f3017237575f7a03547
