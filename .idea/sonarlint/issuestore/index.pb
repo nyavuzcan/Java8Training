@@ -215,3 +215,7 @@ g
 7src/main/java/HackerRank/CountingValleys/Solutions.java,b\0\b0854f7fbbfb778a46ff12578106ac31c1827b17
 o
 ?src/main/java/HackerRankJava/MoneyNumberFormatter/Solution.java,5\f\5f73f9c0e82cba1286640f3017237575f7a03547
+e
+5src/main/java/HackerRank/ElectronicShop/Solution.java,4\3\43b8604809ae23f52cd46db4134e1529effa24fd
+f
+6src/main/java/HackerRankJava/JavaStrings/Solution.java,4\6\46c1d2954866d31f17d3388bfcdd58cae947ca6c
