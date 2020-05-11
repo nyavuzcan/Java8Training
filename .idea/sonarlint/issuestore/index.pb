@@ -219,3 +219,11 @@ e
 5src/main/java/HackerRank/ElectronicShop/Solution.java,4\3\43b8604809ae23f52cd46db4134e1529effa24fd
 f
 6src/main/java/HackerRankJava/JavaStrings/Solution.java,4\6\46c1d2954866d31f17d3388bfcdd58cae947ca6c
+c
+3src/main/java/HackerRank/CatsAndMouse/Solution.java,d\0\d05b4b6b626925a8caea285f53ae6969dc031749
+d
+4src/main/java/HackerRankJava/Substring/Solution.java,4\8\48c0d30f2c8b11bcbd214feceae92446a0f249b9
+m
+=src/main/java/HackerRankJava/SplitAndSortString/Solution.java,3\3\33c539fbd84ad1bb38a39d11419eb630d9f19b35
+b
+2src/main/java/HackerRank/MagicSquare/Solution.java,a\c\ac4c25c5f3c754d343ca572b6e613d4a394055f1
