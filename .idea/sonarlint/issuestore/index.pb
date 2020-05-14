@@ -233,3 +233,13 @@ h
 8src/main/java/HackerRankJava/reverseString/solution.java,a\0\a062623294629f7bac313e5bfc7e0d91ae79ff6f
 n
 >src/main/java/HackerRank/ClimbingtheLeaderBoard/Solutiın.java,4\d\4d4029b2159ecb2542845d54b4a8d0756908878b
+_
+/src/main/java/NestedClasses/AnanymousClass.java,2\c\2c472a45b9cf67ae3b1186220a1fa305a0becdd9
+[
++src/main/java/NestedClasses/OuterClass.java,5\7\574b22ea3145dcc7d2aee9141859d97207f87bf8
+h
+8src/main/java/NestedClasses/OuterClassStaticExample.java,9\d\9de7529ea1d820cdbcd021394576c71b27173620
+a
+1src/main/java/HackerRank/HurdleRace/solution.java,0\e\0edfcfd75779b9071015b1eeb219d78ca3fba447
+c
+3src/main/java/HackerRankJava/Anagrams/Solution.java,b\7\b79dcc5b25d5640570b6c3a9c780dde8dfc87f88
