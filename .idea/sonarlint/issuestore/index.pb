@@ -243,3 +243,11 @@ a
 1src/main/java/HackerRank/HurdleRace/solution.java,0\e\0edfcfd75779b9071015b1eeb219d78ca3fba447
 c
 3src/main/java/HackerRankJava/Anagrams/Solution.java,b\7\b79dcc5b25d5640570b6c3a9c780dde8dfc87f88
+c
+3src/main/java/HackerRank/DesignerPdfV/Solution.java,a\c\ac2c65673c3098b35d792f90e28b458005fff6b4
+c
+3src/main/java/HackerRankJava/StringTokens/Main.java,5\5\553e3cced1b4a670223ddb7a9b49b9f7a6198ece
+f
+6src/main/java/HackerRankAkbank/Quesiton1/Solution.java,e\1\e1960bedb922cb0e41507cf07cbfc75938cada99
+g
+7src/main/java/HackerRankAkbank/Quesiton1/Question2.java,0\3\032b801565afee53ed6b2beeaaa287f40a763e54
