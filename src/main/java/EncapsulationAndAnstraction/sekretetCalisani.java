@@ -12,6 +12,7 @@ public class sekretetCalisani extends calisan {
 
   }
   /*
+
   public void yetki(){
     BU METOD YAZILAMADI FİNAL TANIMLANDIGI İÇİN
   }*/

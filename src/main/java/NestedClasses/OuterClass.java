@@ -10,7 +10,7 @@ package NestedClasses;
 
 public class OuterClass {
 
-  public  int x =0;
+   public  int x =0;
 
    class  FirstLevel{
     public int x =1;

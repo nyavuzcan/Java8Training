@@ -41,6 +41,7 @@ interface dupl {
   default void gazla(){
     System.out.println("dup");
   }
+
 }
 public class info  implements  alt,repo{
 

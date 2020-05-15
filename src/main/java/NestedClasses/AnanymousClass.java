@@ -7,11 +7,10 @@ package NestedClasses;
 
 public class AnanymousClass {
   String name ="Ahmet";
-
   public void rt(){
     System.out.println(name);
-  }
 
+  }
 
   AnanymousClass ann = new AnanymousClass() {
 
@@ -21,10 +20,14 @@ public class AnanymousClass {
     }
   };
 
+public void x() {
 
+
+}
 
   public static void main(String[] args) {
-    AnanymousClass AnanymousClass = new AnanymousClass();
+    AnanymousClass AcanymousClass = new AnanymousClass();
+    AnanymousClass c = new AnanymousClass();
 
   }
 }
