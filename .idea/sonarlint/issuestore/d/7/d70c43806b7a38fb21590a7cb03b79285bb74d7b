@@ -1,13 +1,13 @@
 
-Q	java:S125"<This block of commented-out lines of code should be removed.(Á·³ü
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘¢ßúÿÿÿÿ
-B
-java:S1612*",Replace this lambda with a method reference.(ÂÏïİ
-V	java:S125,"<This block of commented-out lines of code should be removed.(²ÏßÁúÿÿÿÿ
-A
-java:S1481$"+Remove this unused "intSeq" local variable.(ÛåÍ
-Q	java:S125"<This block of commented-out lines of code should be removed.(Š³¦
 P
 java:S1854$":Remove this useless assignment to local variable "intSeq".(ÛåÍ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Š³¦
+A
+java:S1481$"+Remove this unused "intSeq" local variable.(ÛåÍ
+V	java:S125,"<This block of commented-out lines of code should be removed.(²ÏßÁúÿÿÿÿ
+B
+java:S1612*",Replace this lambda with a method reference.(ÂÏïİ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘¢ßúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Á·³ü
 N
 java:S1197'"8Move the array designator from the variable to the type.(…„€Š

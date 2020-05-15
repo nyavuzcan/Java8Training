@@ -11,6 +11,11 @@ public class coremain {
   // Driver code
   public static void main(String[] args)
   {
+  String abc="";
+  String[] ac= abc.split("");
+  for (String acx :ac ){
+    System.out.println("asasdasdsa");
+  }
 
     System.out.println(5/2);
     List<String> stringList= new ArrayList<>();
