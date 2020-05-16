@@ -1,20 +1,22 @@
 
-U
-java:S1128"8Remove this unused import 'sun.text.normalizer.Utility'.(ØÏ¿ê8‰Í¬š.
-D
-java:S1481"'Remove this unused "li" local variable.(­Ñşê8Šï³²›.
+f
+java:S2583+"DChange this condition so that it does not always evaluate to "false"(­ôÛşÿÿÿÿ8ğ¨÷¾¡.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ƒøâ
+S
+java:S1854"6Remove this useless assignment to local variable "li".(­Ñşê8Šï³²›.
+{
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ÅÎàüÿÿÿÿ8Šï³²›.
+T
+java:S49735"9Use the "equals" method if value comparison was intended.(ñ•ôşÿÿÿÿ
 R
 java:S1191"5Use classes from the Java API instead of Sun classes.(ØÏ¿ê8‰Í¬š.
-T
-java:S49730"9Use the "equals" method if value comparison was intended.(ñ•ôşÿÿÿÿ
-f
-java:S2583&"DChange this condition so that it does not always evaluate to "false"(­ôÛşÿÿÿÿ8¸¢©¬¡.
+J
+java:S1481"(Remove this unused "acx" local variable.(¦ø›­øÿÿÿÿ8Øèõ¾¡.
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áĞÚ›üÿÿÿÿ
-m	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œßĞ 8é¼©š.
-S
-java:S1854"6Remove this useless assignment to local variable "li".(­Ñşê8Šï³²›.
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ƒøâ
 Y
 java:S1128"7Remove this unused import 'javax.swing.text.Utilities'.(×ªß’øÿÿÿÿ8‰Í¬š.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ÅÎàüÿÿÿÿ8Šï³²›.
+U
+java:S1128"8Remove this unused import 'sun.text.normalizer.Utility'.(ØÏ¿ê8‰Í¬š.
+m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œßĞ 8é¼©š.
+D
+java:S1481"'Remove this unused "li" local variable.(­Ñşê8Šï³²›.

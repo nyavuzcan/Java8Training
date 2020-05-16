@@ -271,3 +271,11 @@ o
 ?src/main/java/EncapsulationAndAnstraction/sekretetCalisani.java,1\c\1cb9e6c22af8e3211476bde25a6ec8fc8d976420
 a
 1src/main/java/coreJavaTest/defaultMethodTest.java,3\9\39707b7b29b5fac7b61355a0e42418c8261e8410
+Z
+*src/main/java/HuaweiTest/DOWUPCATSING.java,1\9\192ebeb9a78124dc3753b0f386146918821f6589
+Q
+!src/main/java/HuaweiTest/App.java,d\5\d58706900456b444bcabd75cc3cf899a2db11a95
+e
+5src/main/java/HackerRank/AngryProfessor/Solution.java,6\5\6588f6305d89cc425c28c7785426f2aec1c0fa9b
+`
+0src/main/java/HackerRankJava/REGEX/Solution.java,c\3\c30e42bb2ce06425bfebe60d2289b9d1b5a4e4df
