@@ -279,3 +279,7 @@ e
 5src/main/java/HackerRank/AngryProfessor/Solution.java,6\5\6588f6305d89cc425c28c7785426f2aec1c0fa9b
 `
 0src/main/java/HackerRankJava/REGEX/Solution.java,c\3\c30e42bb2ce06425bfebe60d2289b9d1b5a4e4df
+j
+:src/main/java/HackerRank/BeatuifulDaysMovies/Solution.java,b\c\bc50fdce77d6b5be227a42ba5e17bfc9725a61c3
+i
+9src/main/java/HackerRankJava/DuplicateWords/Solution.java,3\c\3c5b6ac010b1e663db6de85b7c0598e5d876600a
