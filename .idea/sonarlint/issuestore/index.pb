@@ -283,3 +283,7 @@ j
 :src/main/java/HackerRank/BeatuifulDaysMovies/Solution.java,b\c\bc50fdce77d6b5be227a42ba5e17bfc9725a61c3
 i
 9src/main/java/HackerRankJava/DuplicateWords/Solution.java,3\c\3c5b6ac010b1e663db6de85b7c0598e5d876600a
+k
+;src/main/java/HackerRankJava/ViralAdvertising/Solution.java,7\0\70979147194e01e1f39bf09e0262815bd583b154
+h
+8src/main/java/HackerRankJava/ValidUserName/Solution.java,f\7\f72993ceb237f727f01dbfd06430c2e58781904a
