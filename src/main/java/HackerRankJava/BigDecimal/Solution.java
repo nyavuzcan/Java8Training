@@ -16,7 +16,8 @@ public class Solution {
       }
     };
 
- //  Arrays.sort(s, 0, n, customComparator);
+    String[] s={"000.000","0.12"};
+ Arrays.sort(s, 0, 2, customComparator);
 
     //Output
    /* for (int i = 0; i < n; i++) {
