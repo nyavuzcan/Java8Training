@@ -295,3 +295,7 @@ l
 <src/main/java/HackerRank/CircularArrayRotation/Solution.java,5\8\5882a2726e7c431afa9200957f1a3df804f1154c
 e
 5src/main/java/HackerRankJava/BigDecimal/Solution.java,d\b\dbef7ac9f0af866b06efd076803982cd8f5e58a3
+h
+8src/main/java/HackerRankJava/PrimalityTest/Solution.java,f\0\f0f60edf7f54675571b124979b0fb383e4482806
+k
+;src/main/java/HackerRankJava/SequenceEquation/Solution.java,f\4\f46a34d3d9d1032864af3095caa26f3b2a928e1f
