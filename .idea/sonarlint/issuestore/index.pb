@@ -299,3 +299,7 @@ h
 8src/main/java/HackerRankJava/PrimalityTest/Solution.java,f\0\f0f60edf7f54675571b124979b0fb383e4482806
 k
 ;src/main/java/HackerRankJava/SequenceEquation/Solution.java,f\4\f46a34d3d9d1032864af3095caa26f3b2a928e1f
+j
+:src/main/java/HackerRank/JumpingonTheClouds/Solutions.java,d\d\dd1e149a6337b8b53508b69521e4df5bf4ed1e28
+q
+Asrc/main/java/HackerRankJava/BigInterSumAndMultiply/Solution.java,2\5\25911a0d1f35955cacc16903506189f372dc8bf1
