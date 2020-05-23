@@ -303,3 +303,7 @@ j
 :src/main/java/HackerRank/JumpingonTheClouds/Solutions.java,d\d\dd1e149a6337b8b53508b69521e4df5bf4ed1e28
 q
 Asrc/main/java/HackerRankJava/BigInterSumAndMultiply/Solution.java,2\5\25911a0d1f35955cacc16903506189f372dc8bf1
+b
+2src/main/java/HackerRank/FindDigits/Solutions.java,9\d\9d9f192c158396170967cdd8e19974d73f0f0243
+e
+5src/main/java/HackerRankJava/TwoDArray/Solutions.java,8\9\89bc6b9d9faf65cf90cf6be4f9568c33d55b7512
