@@ -311,3 +311,7 @@ k
 ;src/main/java/HackerRank/FactorielBigNumbers/Solutions.java,7\4\743d627c13aef1bf61c004e54775caf7c4fb0cfa
 d
 4src/main/java/HackerRankJava/SubArray/Solutions.java,0\2\02683a53f073b271bf82e6a629e6820b035d3414
+f
+6src/main/java/HackerRank/AppendAndDelete/Solution.java,f\c\fcff3c745d8d7f0fc1e47c9dbfe104db90c25fea
+k
+;src/main/java/HackerRankJava/ArrayListProblem/Solution.java,1\9\19669865ee80582966cb29b13cde66d4a8d669dc
