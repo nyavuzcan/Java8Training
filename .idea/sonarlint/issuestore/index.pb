@@ -307,3 +307,7 @@ b
 2src/main/java/HackerRank/FindDigits/Solutions.java,9\d\9d9f192c158396170967cdd8e19974d73f0f0243
 e
 5src/main/java/HackerRankJava/TwoDArray/Solutions.java,8\9\89bc6b9d9faf65cf90cf6be4f9568c33d55b7512
+k
+;src/main/java/HackerRank/FactorielBigNumbers/Solutions.java,7\4\743d627c13aef1bf61c004e54775caf7c4fb0cfa
+d
+4src/main/java/HackerRankJava/SubArray/Solutions.java,0\2\02683a53f073b271bf82e6a629e6820b035d3414
