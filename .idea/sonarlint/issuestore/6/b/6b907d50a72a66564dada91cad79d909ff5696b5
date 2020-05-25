@@ -1,0 +1,13 @@
+
+b
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(¿ÄðÅùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·þÁ¥
+G
+java:S5261"1Add explicit curly braces to avoid dangling else.(á¢–¬
+R
+java:S2589"7Remove this expression which always evaluates to "true"(¿ÄðÅùÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(¦ƒñâ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(éèÒÔúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ

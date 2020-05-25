@@ -1,0 +1,20 @@
+
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(š¤àÊ
+Z
+java:S1197I"8Move the array designator from the variable to the type.(ıáêúşÿÿÿÿ8ŞÜ–® .
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊíÈ½
+]	java:S125K"<This block of commented-out lines of code should be removed.(ÛÖºıÿÿÿÿÿ8Ì¤ë± .
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ú¹³ .
+A
+java:S1659"Declare "j" on a separate line.(À”²Êúÿÿÿÿ8É„â³ .
+C
+java:S1659"!Declare "mid" on a separate line.(À”²Êúÿÿÿÿ8É„â³ .
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(Æù‘·ùÿÿÿÿ8““ç³ .
+t
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Æù‘·ùÿÿÿÿ8É„â³ .
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8Ú¹³ .

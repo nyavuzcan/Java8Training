@@ -1,0 +1,10 @@
+
+c
+java:S1126,"AReplace this if-then-else statement by a single return statement.(áïÀ³úÿÿÿÿ8¡Žÿªœ.
+i
+java:S12231"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8¡Žÿªœ.
+G
+java:S1481
+"*Remove this unused "count" local variable.(æÕ¿¼8‘¼„«œ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ‚Ýü
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡

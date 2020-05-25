@@ -1,0 +1,22 @@
+
+r
+java:S4276\"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(¹ãóüÿÿÿÿ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(­È¾Ì
+t
+java:S4276T"YRefactor this code to use the more specialised Functional Interface 'IntToDoubleFunction'(Øâ½Ôûÿÿÿÿ
+Q
+java:S1854Y";Remove this useless assignment to local variable "resultS".(†Ÿ´š
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—û­Ñùÿÿÿÿ
+B
+java:S1481]",Remove this unused "resultI" local variable.(ôÆÓ
+Q
+java:S1854]";Remove this useless assignment to local variable "resultI".(ôÆÓ
+>
+java:S1481R"(Remove this unused "pos" local variable.(æ÷Ÿï
+a	java:S101N"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(û‰²
+M
+java:S1854R"7Remove this useless assignment to local variable "pos".(æ÷Ÿï
+B
+java:S1481Y",Remove this unused "resultS" local variable.(†Ÿ´š
+m
+java:S4276Q"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(Ò—•›üÿÿÿÿ

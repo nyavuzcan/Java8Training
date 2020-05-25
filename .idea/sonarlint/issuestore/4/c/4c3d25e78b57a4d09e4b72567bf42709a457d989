@@ -1,0 +1,14 @@
+
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8Ø‡Š¤š.
+P
+java:S1128	".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÊÜ‹¤š.
+O
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8Ø‡Š¤š.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢”…ˆüÿÿÿÿ
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃýÿÿÿÿ8Ø‡Š¤š.
+U
+java:S1197"8Move the array designator from the variable to the type.(â¨îë8î£Š¤š.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8æÊÚ«œ.

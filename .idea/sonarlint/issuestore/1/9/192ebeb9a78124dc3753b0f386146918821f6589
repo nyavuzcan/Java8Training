@@ -1,0 +1,29 @@
+
+R
+java:S18548"5Remove this useless assignment to local variable "b".(ÏŒûÄ8Ìª¼Ê¡.
+C
+java:S14818"&Remove this unused "b" local variable.(ÏŒûÄ8Ìª¼Ê¡.
+A
+java:S19056"$Remove this unnecessary cast to "A".(Â³¬´8Ìª¼Ê¡.
+X
+java:S18542"6Remove this useless assignment to local variable "x2".(„¢À‡úÿÿÿÿ8Ìª¼Ê¡.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÃÎ»ıÿÿÿÿ8Ã¢¥Ê¡.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£Ô¢øÿÿÿÿ8 œ´Ê¡.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õéÀÉşÿÿÿÿ8ìƒåÉ¡.
+H
+java:S1172"&Remove these unused method parameters.(‘ÃÎ»ıÿÿÿÿ8€•®Ê¡.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÃÎ»ıÿÿÿÿ8Ã¢¥Ê¡.
+D
+java:S1481/"'Remove this unused "x1" local variable.(õ˜„8Ìª¼Ê¡.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÍÁÍ8Ï»àÉ¡.
+F
+java:S19052"$Remove this unnecessary cast to "B".(„¢À‡úÿÿÿÿ8Ìª¼Ê¡.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»À†•8ìƒåÉ¡.
+r	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ä•Ë¢ûÿÿÿÿ8Îï¦Ê¡.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øŸû‹
+H
+java:S1172"&Remove these unused method parameters.(Á£Ô¢øÿÿÿÿ8 œ´Ê¡.
+S
+java:S1854/"6Remove this useless assignment to local variable "x1".(õ˜„8Ìª¼Ê¡.
+I
+java:S14812"'Remove this unused "x2" local variable.(„¢À‡úÿÿÿÿ8Ìª¼Ê¡.

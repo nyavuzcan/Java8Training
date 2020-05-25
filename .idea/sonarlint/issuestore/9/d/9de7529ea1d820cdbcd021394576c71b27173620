@@ -1,0 +1,12 @@
+
+h
+java:S1104"MMake x a static final constant or non-public and provide accessors if needed.(¤äÍ‚þÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(ûÓÛ
+J
+java:S1481"/Remove this unused "firstLevel" local variable.(Šâò…ûÿÿÿÿ
+h
+java:S1104"MMake x a static final constant or non-public and provide accessors if needed.(øÞè•ùÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "firstLevel".(Šâò…ûÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(úŠý‹ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ü€Îþÿÿÿÿ

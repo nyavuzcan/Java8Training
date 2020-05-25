@@ -1,0 +1,15 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú¹å´þÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ú¹å´þÿÿÿÿ
+8
+java:S2326"ver is not used in the class.(Ú¹å´þÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òÅÓŽÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ý¸Ýýÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ú¹å´þÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ú¹å´þÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(­½Ú8«„è®¡.
+K
+java:S3740"/Provide the parametrized type for this generic.(­½Ú8«„è®¡.
+L
+java:S3740"/Provide the parametrized type for this generic.(’§ã€8«„è®¡.

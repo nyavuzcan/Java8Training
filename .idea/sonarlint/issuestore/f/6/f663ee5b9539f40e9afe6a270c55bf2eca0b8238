@@ -1,0 +1,32 @@
+
+U
+java:S1854#"9Remove this useless assignment to local variable "ints1".(îªĞ"8ÖÀîé.
+T
+java:S3958!"2Refactor the code so this stream pipeline is used.(·ä¶Áøÿÿÿÿ8î¾íé.
+F
+java:S1481#"*Remove this unused "ints1" local variable.(îªĞ"8ÖÀîé.
+e
+java:S1854!"CRemove this useless assignment to local variable "parallelStream2".(·ä¶Áøÿÿÿÿ8î¾íé.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¼Ú½
+U
+java:S1481"3Remove this unused "parallelStream" local variable.(úš²ùøÿÿÿÿ8øªç.
+Q
+java:S1481$"4Remove this unused "parallelStream3" local variable.(¯ã×·8ï‰îé.
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ıåôé.
+V
+java:S1481!"4Remove this unused "parallelStream2" local variable.(·ä¶Áøÿÿÿÿ8ï‰îé.
+H
+java:S1481"+Remove this unused "stream" local variable.(ŒäšÀ8åïé.
+W
+java:S1854":Remove this useless assignment to local variable "stream".(ŒäšÀ8åïé.
+I
+java:S1481%",Remove this unused "stream2" local variable.(Á÷øÆ8¿¤îé.
+X
+java:S1854%";Remove this useless assignment to local variable "stream2".(Á÷øÆ8ìíé.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(— éƒ
+d
+java:S1854"BRemove this useless assignment to local variable "parallelStream".(úš²ùøÿÿÿÿ8øªç.
+X	java:S125"<This block of commented-out lines of code should be removed.(ıøûÕ8Œ€±ç.
+`
+java:S1854$"CRemove this useless assignment to local variable "parallelStream3".(¯ã×·8ìíé.

@@ -1,0 +1,12 @@
+
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Üüàî8¡¶Ÿ¬.
+J
+java:S1481"(Remove this unused "num" local variable.(ãÉ°üÿÿÿÿ8«æ¥¬.
+I
+java:S1481",Remove this unused "karesia" local variable.(ÉØÌÓ8† ¬.
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üƒ€…şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’©àşÿÿÿÿ
+X
+java:S1854";Remove this useless assignment to local variable "karesia".(ÉØÌÓ8† ¬.

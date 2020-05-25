@@ -1,0 +1,22 @@
+
+L
+java:S1481"*Remove this unused "intOf" local variable.(…µ¤£ÿÿÿÿÿ8ò‘¶ç.
+^
+java:S1854"<Remove this useless assignment to local variable "doubleOf".(¤İ“‚øÿÿÿÿ8ò‘¶ç.
+H
+java:S1481"+Remove this unused "longOf" local variable.(úØ¬İ8ò‘¶ç.
+X
+java:S1854"<Remove this useless assignment to local variable "intRange".(îòª8ò‘¶ç.
+P
+java:S1481".Remove this unused "longRange" local variable.(¤Â‘øÿÿÿÿ8ò‘¶ç.
+W
+java:S1854":Remove this useless assignment to local variable "longOf".(úØ¬İ8ò‘¶ç.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¼Ú½
+_
+java:S1854"=Remove this useless assignment to local variable "longRange".(¤Â‘øÿÿÿÿ8ò‘¶ç.
+O
+java:S1481"-Remove this unused "doubleOf" local variable.(¤İ“‚øÿÿÿÿ8ò‘¶ç.
+[
+java:S1854"9Remove this useless assignment to local variable "intOf".(…µ¤£ÿÿÿÿÿ8ò‘¶ç.
+I
+java:S1481"-Remove this unused "intRange" local variable.(îòª8ò‘¶ç.

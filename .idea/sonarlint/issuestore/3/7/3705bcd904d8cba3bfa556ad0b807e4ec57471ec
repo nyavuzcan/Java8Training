@@ -1,0 +1,10 @@
+
+O
+java:S1854"9Remove this useless assignment to local variable "write".(Œò˜©
+2
+java:S1643
+"Use a StringBuilder instead.(ş¡‘¶
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éñ¦ùÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(Ÿ¤Ê

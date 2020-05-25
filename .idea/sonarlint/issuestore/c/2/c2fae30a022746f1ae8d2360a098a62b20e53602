@@ -1,0 +1,19 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "of".(µ¡êßÿÿÿÿÿ8ªş”¬.
+\
+java:S1854":Remove this useless assignment to local variable "ofNull".(€ù“©ıÿÿÿÿ8ù·˜¬.
+L
+java:S1481"/Remove this unused "ofNullable" local variable.(ÁûÃÑ8Œ —¬.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’©àşÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°ŞÂÈüÿÿÿÿ
+V
+java:S1854"9Remove this useless assignment to local variable "empty".(ËšÚ¿8ªş”¬.
+G
+java:S1481"*Remove this unused "empty" local variable.(ËšÚ¿8ªş”¬.
+I
+java:S1481"'Remove this unused "of" local variable.(µ¡êßÿÿÿÿÿ8ªş”¬.
+M
+java:S1481"+Remove this unused "ofNull" local variable.(€ù“©ıÿÿÿÿ8ù·˜¬.
+[
+java:S1854">Remove this useless assignment to local variable "ofNullable".(ÁûÃÑ8Œ —¬.

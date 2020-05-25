@@ -1,0 +1,13 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Õà½ùøÿÿÿÿ
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Þ¦¨†ýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª‰¡¼
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(Ì¦­µ
+1
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+1
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+1
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ

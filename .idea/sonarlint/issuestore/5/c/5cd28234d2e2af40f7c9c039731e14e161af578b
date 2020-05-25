@@ -1,0 +1,7 @@
+
+N
+java:S1612",Replace this lambda with a method reference.(Œš‡»úÿÿÿÿ8Öı¹ç.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¼Ú½
+]	java:S125"<This block of commented-out lines of code should be removed.(±§ü“ùÿÿÿÿ8ÍÛºç.
+N
+java:S1602",Remove useless curly braces around statement(Œš‡»úÿÿÿÿ8Öı¹ç.

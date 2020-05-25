@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÖæ¬
+P
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(Ôƒ×ˆ8«´­Ÿš.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ô÷ŸÁûÿÿÿÿ8¤½³Ÿš.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¦ÁŒºùÿÿÿÿ8«´­Ÿš.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ô÷ŸÁûÿÿÿÿ
+Q
+java:S3740
+"/Provide the parametrized type for this generic.(Ùò€“úÿÿÿÿ8ªµú¯¡.

@@ -1,0 +1,8 @@
+
+Q	java:S125	"<This block of commented-out lines of code should be removed.(ó˜ˆ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï´—õ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚áÓûÿÿÿÿ
+M
+java:S1610"7Convert the abstract class "calisan" into an interface.(Ï´—õ
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(æÉ¹¶şÿÿÿÿ8Òµ×®¡.

@@ -1,0 +1,22 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖÜÊÙ
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÛïÑÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä™µÂøÿÿÿÿ
+N
+java:S4973"9Use the "equals" method if value comparison was intended.(¹²µ.
+M
+java:S2589."7Remove this expression which always evaluates to "true"(™ µ…
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›
+@
+java:S2157
+"%Add a "clone()" method to this class.(ÄÛïÑÿÿÿÿÿ
+2
+java:S2225"Return empty string instead.(¥¹ï
+J
+java:S1854"5Remove this useless assignment to local variable "b".(“öú~
+;
+java:S2129" Remove this "String" constructor(šüÏ¡ÿÿÿÿÿ
+;
+java:S1481"&Remove this unused "b" local variable.(“öú~

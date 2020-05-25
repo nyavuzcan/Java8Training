@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓŠÂ×ıÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Âš6
+¤
+java:S2681	"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ëŸµı8¾£ÿ– .
+<
+java:S2129" Remove this "String" constructor( ÇÀ)8–Ç‚— .

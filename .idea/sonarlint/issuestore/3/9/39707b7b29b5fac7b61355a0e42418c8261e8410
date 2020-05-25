@@ -1,0 +1,11 @@
+
+D
+java:S1604"(Make this anonymous inner class a lambda(ô§ê8ì€¿°¡.
+R
+java:S1481"0Remove this unused "innerClasss" local variable.(¦ı¢ûÿÿÿÿ8Û²Æ°¡.
+a
+java:S1854"?Remove this useless assignment to local variable "innerClasss".(¦ı¢ûÿÿÿÿ8Û²Æ°¡.
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã›úûÿÿÿÿ8àã±°¡.
+J
+java:S1604#"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ8ÍƒÂ°¡.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áĞÚ›üÿÿÿÿ

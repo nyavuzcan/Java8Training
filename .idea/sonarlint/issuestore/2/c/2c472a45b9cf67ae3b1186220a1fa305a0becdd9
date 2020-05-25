@@ -1,0 +1,15 @@
+
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( í„÷ûÿÿÿÿ8Óûó¯¡.
+W
+java:S1854"5Remove this useless assignment to local variable "c".(Ÿêäçüÿÿÿÿ8êø—¯¡.
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¸şûÿÿÿÿ
+U
+java:S1481"3Remove this unused "AcanymousClass" local variable.(ª¸şûÿÿÿÿ8şñ™¯¡.
+H
+java:S1481"&Remove this unused "c" local variable.(Ÿêäçüÿÿÿÿ8êø—¯¡.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ü€Îşÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature( â¦ª
+]
+java:S1854"BRemove this useless assignment to local variable "AcanymousClass".(ª¸şûÿÿÿÿ

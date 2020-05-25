@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¼Ú½
+G
+java:S1481"*Remove this unused "count" local variable.(Õ©Äˆ8ˆÔç.
+E
+java:S1481"(Remove this unused "set" local variable.(µäË8ˆÔç.
+V
+java:S1854"9Remove this useless assignment to local variable "count".(Õ©Äˆ8ˆÔç.
+N
+java:S1612 ",Replace this lambda with a method reference.(ºÄ›„øÿÿÿÿ8á”Ëè.
+K
+java:S1481")Remove this unused "list" local variable.(ßœ­¿şÿÿÿÿ8ˆÔç.
+T
+java:S1854"7Remove this useless assignment to local variable "set".(µäË8ˆÔç.
+Z
+java:S1854"8Remove this useless assignment to local variable "list".(ßœ­¿şÿÿÿÿ8ˆÔç.

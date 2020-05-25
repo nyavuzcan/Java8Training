@@ -1,0 +1,9 @@
+
+r	java:S114$"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›‘ñ÷şÿÿÿÿ8ã®¦Â.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ÓØÚüÿÿÿÿ
+
+java:S11862"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8‹õÃÂ.
+m	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥êÖÉ8¥ûÂ.
+]	java:S1250"<This block of commented-out lines of code should be removed.(ã¼ôÄıÿÿÿÿ8º…¬Â.
+g	java:S101."MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õ‹Ôøÿÿÿÿ
+l	java:S114("QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ê®Âb8º–¯Â.

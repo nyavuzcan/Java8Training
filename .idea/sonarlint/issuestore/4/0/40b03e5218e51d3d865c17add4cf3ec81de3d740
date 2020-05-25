@@ -1,0 +1,71 @@
+
+Z
+java:S18549"8Remove this useless assignment to local variable "date".(©•†Ôüÿÿÿÿ8ó«‹Áœ.
+K
+java:S2201)")The return value of "parse" must be used.(¥øú”ûÿÿÿÿ8 Ã†Áœ.
+S
+java:S22014"1The return value of "getDayOfMonth" must be used.(›íúÑûÿÿÿÿ8ÈŠÁœ.
+D
+java:S2201M"'The return value of "now" must be used.(ì”ÑÌ8±É™Áœ.
+X	java:S125?"<This block of commented-out lines of code should be removed.(ö‘ùÁ8í­Áœ.
+Z
+java:S1854"=Remove this useless assignment to local variable "localDate".(•Æ»ö8®©Àœ.
+I
+java:S22016"-The return value of "getMinute" must be used.(¦­Ÿ]8ÈŠÁœ.
+F
+java:S2201-")The return value of "minus" must be used.(üÃË—8 ˆÁœ.
+O
+java:S2201 "-The return value of "plusWeeks" must be used.(‹³ ·üÿÿÿÿ8ä­·Àœ.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íÍôËùÿÿÿÿ
+]
+java:S1854$";Remove this useless assignment to local variable "nowTime".(¹±˜éşÿÿÿÿ8¡„…Áœ.
+D
+java:S2201"(The return value of "with" must be used.(òœ¹r8ßÆ³Àœ.
+N
+java:S22013",The return value of "getMonth" must be used.(•ˆˆ±øÿÿÿÿ8ÈŠÁœ.
+[
+java:S1854>"9Remove this useless assignment to local variable "zones".(ÁñŸ™ùÿÿÿÿ8í­Áœ.
+D
+java:S2201I"'The return value of "now" must be used.(ÊŸó“8™™–Áœ.
+H
+java:S22015"+The return value of "getHour" must be used.(‰·™©8ÈŠÁœ.
+N
+java:S1481$",Remove this unused "nowTime" local variable.(¹±˜éşÿÿÿÿ8®Ú…Áœ.
+O
+java:S2201'"-The return value of "getMinute" must be used.(Ñãõóüÿÿÿÿ8¡„…Áœ.
+O
+java:S2201("-The return value of "getSecond" must be used.(‚ÍÛùÿÿÿÿ8¡„…Áœ.
+J
+java:S2201"(The return value of "with" must be used.(ïÂÈÿÿÿÿÿ8ßÆ³Àœ.
+H
+java:S2201"&The return value of "of" must be used.(˜Ã–§üÿÿÿÿ8±¯¬Àœ.
+K
+java:S1481".Remove this unused "localDate" local variable.(•Æ»ö8®©Àœ.
+\
+java:S1854/"?Remove this useless assignment to local variable "nowDateTime".(ú±½8ší‰Áœ.
+M
+java:S22012"+The return value of "getYear" must be used.(ÑùÑùÿÿÿÿ8ÈŠÁœ.
+J
+java:S2201"(The return value of "with" must be used.(³ø‚•üÿÿÿÿ8ßÆ³Àœ.
+I
+java:S2201",The return value of "withYear" must be used.(¹¯Ò8îò°Àœ.
+K
+java:S14819")Remove this unused "date" local variable.(©•†Ôüÿÿÿÿ8ó«‹Áœ.
+L
+java:S1481>"*Remove this unused "zones" local variable.(ÁñŸ™ùÿÿÿÿ8í­Áœ.
+[
+java:S1854:"9Remove this useless assignment to local variable "timex".(ë×ß›ıÿÿÿÿ8ó«‹Áœ.
+P
+java:S2201!".The return value of "minusWeeks" must be used.(½ÖÑîıÿÿÿÿ8ä­·Àœ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é¤©
+I
+java:S2201K"'The return value of "now" must be used.(Şğë†şÿÿÿÿ8éĞ˜Áœ.
+L
+java:S1481:"*Remove this unused "timex" local variable.(ë×ß›ıÿÿÿÿ8ó«‹Áœ.
+M
+java:S1481/"0Remove this unused "nowDateTime" local variable.(ú±½8ší‰Áœ.
+]	java:S125!"<This block of commented-out lines of code should be removed.(½ÖÑîıÿÿÿÿ8ä­·Àœ.
+G
+java:S2201&"+The return value of "getHour" must be used.(œƒ)8¡„…Áœ.
+J
+java:S22017"-The return value of "getSecond" must be used.(è‡î8ÈŠÁœ.

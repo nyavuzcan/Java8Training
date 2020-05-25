@@ -1,0 +1,7 @@
+
+J
+java:S1905"(Remove this unnecessary cast to "insan".(£¦¸ÿÿÿÿÿ8ÊÆ† š.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8ŒŠøŸš.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’õÀìøÿÿÿÿ

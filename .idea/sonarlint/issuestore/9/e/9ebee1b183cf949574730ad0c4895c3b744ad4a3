@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æá‹‚ùÿÿÿÿ
+I
+java:S1602",Remove useless curly braces around statement(˜ú‚8£ŞÇÁœ.
+N
+java:S1612
+",Replace this lambda with a method reference.(•Û—Çøÿÿÿÿ8ÇÅÂœ.
+N
+java:S1602$",Remove useless curly braces around statement(Âµ–üÿÿÿÿ8…ÈÂœ.
+N
+java:S1612$",Replace this lambda with a method reference.(Âµ–üÿÿÿÿ8…ÈÂœ.
+I
+java:S1612",Replace this lambda with a method reference.(˜ú‚8£ŞÇÁœ.
+N
+java:S1602
+",Remove useless curly braces around statement(•Û—Çøÿÿÿÿ8ë‘ÅÂœ.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µ¶…Â

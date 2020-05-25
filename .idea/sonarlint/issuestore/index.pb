@@ -315,3 +315,5 @@ f
 6src/main/java/HackerRank/AppendAndDelete/Solution.java,f\c\fcff3c745d8d7f0fc1e47c9dbfe104db90c25fea
 k
 ;src/main/java/HackerRankJava/ArrayListProblem/Solution.java,1\9\19669865ee80582966cb29b13cde66d4a8d669dc
+i
+9src/main/java/HackerRank/SherlockAndSquares/Solution.java,c\3\c38d46a0642ddbc1bd851f7e1120cf37afd19f0c

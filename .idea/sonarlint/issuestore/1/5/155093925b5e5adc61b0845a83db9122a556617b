@@ -1,0 +1,8 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬¶í’
+P
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(ş“Ñ¾8ø»õš.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ šİüÿÿÿÿ
+^
+java:S2133
+"ARemove this object instantiation and use "Product.class" instead.(¢¦Ì›8øê¯š.

@@ -1,0 +1,8 @@
+
+E
+java:S1144"(Remove this unused private "Sum" method.(ªÎ¡∫8©ä§Ê£.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô≤®ä
+X	java:S125"<This block of commented-out lines of code should be removed.(Ä ¨´8©ä§Ê£.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÎ¡∫8©ä§Ê£.
+U
+java:S1197"8Move the array designator from the variable to the type.(ªÎ¡∫8©ä§Ê£.
