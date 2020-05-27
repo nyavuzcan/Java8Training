@@ -1,6 +1,6 @@
 
 v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯ì€ø8¬µÛÀ¤.
-v
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(î‘îû8¬µÛÀ¤.
 u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûßås8Ó—ÛÀ¤.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯ì€ø8¬µÛÀ¤.

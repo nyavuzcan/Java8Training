@@ -1,7 +1,7 @@
 
-]	java:S125"<This block of commented-out lines of code should be removed.(¿ËÌæúÿÿÿÿ8šééÅ¤.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¬İ©
-O
-java:S1481"-Remove this unused "solution" local variable.(ËÊüşÿÿÿÿ8´È±Å¤.
 ^
 java:S1854"<Remove this useless assignment to local variable "solution".(ËÊüşÿÿÿÿ8´È±Å¤.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¬İ©
+]	java:S125"<This block of commented-out lines of code should be removed.(¿ËÌæúÿÿÿÿ8šééÅ¤.
+O
+java:S1481"-Remove this unused "solution" local variable.(ËÊüşÿÿÿÿ8´È±Å¤.

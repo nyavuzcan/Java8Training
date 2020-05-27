@@ -317,3 +317,7 @@ k
 ;src/main/java/HackerRankJava/ArrayListProblem/Solution.java,1\9\19669865ee80582966cb29b13cde66d4a8d669dc
 i
 9src/main/java/HackerRank/SherlockAndSquares/Solution.java,c\3\c38d46a0642ddbc1bd851f7e1120cf37afd19f0c
+h
+8src/main/java/HackerRankJava/JavaOneDArray/Solution.java,3\7\3741d29ed85cc83d08fe9c51faaa28f331d36200
+b
+2src/main/java/HackerRank/LibraryFine/Solution.java,8\3\83d0add39f570190aca0e0f093e4af48d79a0fb9
