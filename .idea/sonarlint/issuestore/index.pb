@@ -321,3 +321,9 @@ h
 8src/main/java/HackerRankJava/JavaOneDArray/Solution.java,3\7\3741d29ed85cc83d08fe9c51faaa28f331d36200
 b
 2src/main/java/HackerRank/LibraryFine/Solution.java,8\3\83d0add39f570190aca0e0f093e4af48d79a0fb9
+^
+.src/main/java/HackerRankJava/Map/Solution.java,f\7\f7ecdb42f419cf3e1875f0ccd8871ec48e82e121
+_
+/src/main/java/HackerRankJava/List/Solution.java,8\f\8f2d6505bf57e16b8ed0359eda8e3130b8936bc5
+c
+3src/main/java/HackerRank/CutTheSticks/Solution.java,d\2\d26b088196363b9f79ced78850b285c387cc5103
