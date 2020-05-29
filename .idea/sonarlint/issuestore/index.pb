@@ -327,3 +327,7 @@ _
 /src/main/java/HackerRankJava/List/Solution.java,8\f\8f2d6505bf57e16b8ed0359eda8e3130b8936bc5
 c
 3src/main/java/HackerRank/CutTheSticks/Solution.java,d\2\d26b088196363b9f79ced78850b285c387cc5103
+i
+9src/main/java/HackerRank/NonDivisibleSubset/Solution.java,2\c\2c53fa4407b13d3a81b4bb25615aeb6af6b1e8fc
+`
+0src/main/java/HackerRankJava/Stack/Solution.java,e\f\efa1c68451ff1b90685caef6953c2045ea2d8465
