@@ -1,24 +1,19 @@
 
 n
 java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ÙØ¤Şıÿÿÿÿ8ş«¾Ÿš.
+R
+java:S2209"5Change this instance-reference to a static reference.(ó”ç¦8³ÿ¿Ÿš.
+H
+java:S1481
+"&Remove this unused "h" local variable.(ÈÿÏşÿÿÿÿ8øÔÆŸš.
 C
 java:S1481"&Remove this unused "t" local variable.(ÙÖš­8×ÁÇŸš.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÖæ¬
 W
 java:S2209
 "5Change this instance-reference to a static reference.(ÈÿÏşÿÿÿÿ8³ÿ¿Ÿš.
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
-O
-java:S2440"-Remove this instantiation of "getShapesName".(…Ğ£Ùıÿÿÿÿ8ş«¾Ÿš.
-W
-java:S1854
-"5Remove this useless assignment to local variable "h".(ÈÿÏşÿÿÿÿ8øÔÆŸš.
-R
-java:S1854"5Remove this useless assignment to local variable "t".(ÙÖš­8×ÁÇŸš.
-H
-java:S1481
-"&Remove this unused "h" local variable.(ÈÿÏşÿÿÿÿ8øÔÆŸš.
 R
 java:S2209"5Change this instance-reference to a static reference.(ÙÖš­8³ÿ¿Ÿš.
-R
-java:S2209"5Change this instance-reference to a static reference.(ó”ç¦8³ÿ¿Ÿš.
+O
+java:S2440"-Remove this instantiation of "getShapesName".(…Ğ£Ùıÿÿÿÿ8ş«¾Ÿš.

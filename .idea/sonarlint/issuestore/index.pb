@@ -335,3 +335,7 @@ e
 5src/main/java/HackerRank/RepeatedString/Solution.java,5\c\5c9083bc33e0f33cf61f0c42fcaa55afd06feba6
 b
 2src/main/java/HackerRankJava/HashSet/Solution.java,f\f\ff0263eeec0824cb6c94a91f71af33f9291a6eb0
+f
+6src/main/java/HackerRank/JumpingOnClouds/Solution.java,b\2\b237ea481197f9fc59ee09682df5003de7a902f3
+c
+3src/main/java/HackerRankJava/Generics/Solution.java,f\7\f7f4c637b927c4030f09c53533c4143075965c31
