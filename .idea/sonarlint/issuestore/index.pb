@@ -343,3 +343,7 @@ Y
 )src/main/java/CodeAssess/questionOne.java,9\5\9592d0caf481b2bdd8f529390eba7703385b6872
 e
 5src/main/java/HackerRankJava/Comparoter/Solution.java,b\1\b1229f79c1771cf3edc66397ee0455303ee32266
+e
+5src/main/java/HackerRank/QueensAttackII/Solution.java,c\b\cb59549708174d90b73b15939f9e382c8d5d7951
+_
+/src/main/java/HackerRankJava/Sort/Solution.java,6\8\687375ad8de9f073f413a4b118fe82e2b8dd24fa
