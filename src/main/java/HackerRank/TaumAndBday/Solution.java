@@ -27,7 +27,7 @@ public class Solution {
 
     //Multiple the price for each one by the number of gifts we need
   costx+=(minBlackPrice * b) + (minWhitePrice * b);
-    return costx;
+    return costx; //burda yine int dönüyor long'a pars şart,
   }
 
 
