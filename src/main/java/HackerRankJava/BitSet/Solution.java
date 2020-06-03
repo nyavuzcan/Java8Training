@@ -3,6 +3,13 @@ package HackerRankJava.BitSet;
 import java.util.BitSet;
 import java.util.Scanner;
 
+/**
+ * int bits2 = 0b1000001;
+ * int bits1 = 0b1111111;
+ * bits2 &= bits1;
+ * System.out.println(Integer.toBinaryString(bits2));
+ *      1000001
+ */
 public class Solution {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
