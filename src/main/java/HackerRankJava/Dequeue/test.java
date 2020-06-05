@@ -1,5 +1,9 @@
 package HackerRankJava.Dequeue;
 /**
+ * HASHMAP FREKANS
+ *       map.merge(num, 1, Integer::sum);
+ *
+ *       max = Math.max(max, map.size());
  *
  *
  deque.add(23);
