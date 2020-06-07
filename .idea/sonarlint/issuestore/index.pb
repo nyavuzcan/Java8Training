@@ -359,3 +359,7 @@ r
 Bsrc/main/java/HackerRank/OrganizingContainersOfBalls/Solution.java,8\c\8c8fbf2322020f9d7ea5f4c7d05396daccc51d75
 h
 8src/main/java/HackerRankJava/PriorityQueue/Solution.java,c\d\cde6d04d7e642e434bba8a7ad155774e89e54c36
+a
+1src/main/java/HackerRank/Encryption/Solution.java,1\3\13287cd494db2a1a521a37bcba4aa9d3ad8ba177
+f
+6src/main/java/HackerRankJava/Inheritance/Solution.java,0\a\0a938a211b2ae2b9c437ac40e0dcb09367ef6fc3
