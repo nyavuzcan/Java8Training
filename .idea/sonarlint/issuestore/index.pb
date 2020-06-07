@@ -363,3 +363,7 @@ a
 1src/main/java/HackerRank/Encryption/Solution.java,1\3\13287cd494db2a1a521a37bcba4aa9d3ad8ba177
 f
 6src/main/java/HackerRankJava/Inheritance/Solution.java,0\a\0a938a211b2ae2b9c437ac40e0dcb09367ef6fc3
+f
+6src/main/java/HackerRank/BiggerIsGreater/Solution.java,5\b\5bc7fc87f637b72cf3b1959c2d99b43ea1e3a3ee
+h
+8src/main/java/HackerRankJava/InheritanceII/Solution.java,d\5\d57c198b5111220401cb1e2b2169cf887ffc18fd
