@@ -367,3 +367,7 @@ f
 6src/main/java/HackerRank/BiggerIsGreater/Solution.java,5\b\5bc7fc87f637b72cf3b1959c2d99b43ea1e3a3ee
 h
 8src/main/java/HackerRankJava/InheritanceII/Solution.java,d\5\d57c198b5111220401cb1e2b2169cf887ffc18fd
+f
+6src/main/java/HackerRank/KaprekarNumbers/Solution.java,8\f\8fac38aedd9f23bd2be744414ed96d2f5b93319a
+c
+3src/main/java/HackerRankJava/AbstracClass/Main.java,e\5\e5328590e39736e18abb488de52b556614e95996
