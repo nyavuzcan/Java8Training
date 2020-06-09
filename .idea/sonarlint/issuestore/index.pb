@@ -371,3 +371,7 @@ f
 6src/main/java/HackerRank/KaprekarNumbers/Solution.java,8\f\8fac38aedd9f23bd2be744414ed96d2f5b93319a
 c
 3src/main/java/HackerRankJava/AbstracClass/Main.java,e\5\e5328590e39736e18abb488de52b556614e95996
+h
+8src/main/java/HackerRank/BeautifulTriplets/Solution.java,5\1\51581244bd7011ab010ecc0c681dbca794ec3c31
+d
+4src/main/java/HackerRankJava/Interface/Solution.java,6\e\6e4a414bc74539b072a63937980617839b51c56d
