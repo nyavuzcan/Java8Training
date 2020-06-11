@@ -375,3 +375,7 @@ h
 8src/main/java/HackerRank/BeautifulTriplets/Solution.java,5\1\51581244bd7011ab010ecc0c681dbca794ec3c31
 d
 4src/main/java/HackerRankJava/Interface/Solution.java,6\e\6e4a414bc74539b072a63937980617839b51c56d
+f
+6src/main/java/HackerRank/MinimumDistance/Solution.java,b\5\b58536f470c2ae7f51b60974d85d5fbd382aed64
+c
+3src/main/java/HackerRankJava/Override/Solution.java,f\c\fc387f4f46e8b902ea5bd8696ad8738051cfdda2
