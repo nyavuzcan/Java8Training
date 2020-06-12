@@ -379,3 +379,7 @@ f
 6src/main/java/HackerRank/MinimumDistance/Solution.java,b\5\b58536f470c2ae7f51b60974d85d5fbd382aed64
 c
 3src/main/java/HackerRankJava/Override/Solution.java,f\c\fc387f4f46e8b902ea5bd8696ad8738051cfdda2
+d
+4src/main/java/HackerRank/HalloweenSale/Solution.java,8\c\8c39bafbb404e01a8369974ab4bd99c52172229c
+f
+6src/main/java/HackerRankJava/Overridign2/Solution.java,4\a\4a9ab570dffdfae8c4b357d710ce41ebcaa95a11
