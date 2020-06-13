@@ -383,3 +383,7 @@ d
 4src/main/java/HackerRank/HalloweenSale/Solution.java,8\c\8c39bafbb404e01a8369974ab4bd99c52172229c
 f
 6src/main/java/HackerRankJava/Overridign2/Solution.java,4\a\4a9ab570dffdfae8c4b357d710ce41ebcaa95a11
+e
+5src/main/java/HackerRank/TheTimeinWords/Solution.java,d\8\d88ab8d4fa161389cc463e8c498f80dea2cce9c6
+w
+Gsrc/main/java/HackerRankJava/InstanceofKeywırd/InstanceOFTutorial.java,f\6\f65a1d7341c064d63b71945a8922a29056c98f84
