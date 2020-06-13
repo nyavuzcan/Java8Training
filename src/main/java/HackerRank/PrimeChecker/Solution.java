@@ -6,6 +6,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 import java.lang.reflect.*;
+import static java.lang.System.in;
 class Prime{
   boolean chk(int n){
     if(n<2)return false;
